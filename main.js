@@ -39,7 +39,7 @@ const starts = async (pebz = new WAConnection()) => {
     pebz.version = [2, 2143, 3]
     pebz.browserDescription = [ 'FebZBotz', 'Safari', '3.0' ]
     pebz.on('qr', () => {
-    pebz.sendMessage(`6285849261085@s.whatsapp.net`, `「 BOT CONNECT 」\n\n${a}Hallo Kak!! Saya ${Miminnya} Izin Menggunakan Bot Ini!!${a}\n\n${a}BOT TERSAMBUNG PADA${a}\n${a}${time2}${a}\n\n${a}PROFILE${a}\n*Nama* : ${Miminnya}\n*Nomor* : ${ownerNumber}\n*Status* : Online\n\n${a}TERIMAKASIH KAK PEBRI!!${a}`, MessageType.extendedText)
+    pebz.sendMessage(`6288804947282@s.whatsapp.net`, `「 BOT CONNECT 」\n\n${a}Hallo Kak!! Saya ${Miminnya} Izin Menggunakan Bot Ini!!${a}\n\n${a}BOT TERSAMBUNG PADA${a}\n${a}${time2}${a}\n\n${a}PROFILE${a}\n*Nama* : ${Miminnya}\n*Nomor* : ${ownerNumber}\n*Status* : Online\n\n${a}TERIMAKASIH KAK PEBRI!!${a}`, MessageType.extendedText)
     console.log(color('[','white'), color('!','cyan'), color(']','white'), color('Scan Ngab, Ga Scan Mati Aja Anjeng'))
     })
 
@@ -51,8 +51,8 @@ const starts = async (pebz = new WAConnection()) => {
     success('2', 'Dah Connect Tuhh!!')
     console.log(color('','aqua'), color(`||================================================||`, "cyan"))
     console.log(color(' ||> ','cyan'), color(`     Hallo Kak ${Miminnya} ${ucapanWaktu}`, 'cyan'))
-    console.log(color(' ||> ','cyan'), color('    Jangan Lupa Subscrib Yt FEBZABOTZ😝', 'cyan'))
-    console.log(color(' ||> ','cyan'), color('   Script Ori By Febriansyah ItsMeFebri🛐', 'cyan'))
+    console.log(color(' ||> ','cyan'), color('    Jangan Lupa Subscrib Yt GojoBotzMD😝', 'cyan'))
+    console.log(color(' ||> ','cyan'), color('   Script Ori By Humanz🛐', 'cyan'))
     console.log(color('','aqua'), color(`||================================================||`, "cyan"))
     start('2','')
     })
